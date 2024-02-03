@@ -1,0 +1,95 @@
+.todo-container {
+  height: 100vh;
+  padding-left:70px;
+  padding-right: 70px;
+}
+
+.todo-header {
+  color: black;
+  font-size: 38px;
+  font-family: Roboto;
+  text-align: center;
+}
+
+.create-task-heading {
+  font-family: "Roboto";
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.create-task-heading-subpart {
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.input-ele {
+  background-color: white;
+  width: 100%;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e4e7eb;
+  border-radius: 10px;
+  margin-top: 10px;
+  padding: 15px;
+  font-size: 16px;
+}
+
+.add-btn {
+  color: white;
+  background-color: #4c63b6;
+  font-family: "Roboto";
+  font-size: 18px;
+  border-width: 0px;
+  border-radius: 4px;
+  margin-top: 20px;
+  /* margin-bottom: 50px; */
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.todo-items-heading {
+  font-family: "Roboto";
+  font-size: 32px;
+  font-weight: 700;
+}
+.todo-items-heading-subpart {
+  font-family: "Roboto";
+  font-size: 32px;
+  font-weight: 500;
+}
+.todo-items-container {
+  margin: 0px;
+  padding: 0px;
+}
+
+.button {
+  color: white;
+  background-color: #4c63b6;
+  font-family: "Roboto";
+  font-size: 18px;
+  border-width: 0px;
+  border-radius: 4px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.button1 {
+  color: white;
+  background-color: #4c63b6;
+  font-family: "Roboto";
+  font-size: 18px;
+  border-width: 0px;
+  border-radius: 4px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-left:14px;
+}
